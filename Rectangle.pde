@@ -1,3 +1,11 @@
+/**
+  Class definition for Rectangle
+  - Implements the Moving interface.
+  - Contains 7 data fields.
+  - Contains 2 constructors.
+  - Contains 3 methods.
+*/
+
 class Rectangle implements Moving{
 
   /**

@@ -3,8 +3,8 @@ FRC Java Lessons Using Processing
 Lesson 3 - Object Instantiation and Procedure Invocation
 Copyright (c) 2019 Shichao Liang
 See attached MIT license for usage rights.
-In this lesson, students will differentiate between the two reserved methods for
-controlling the main program loop.
+In this lesson, students will learn how to manipulate OBJECTS, and then create their own 
+blueprint for a moveable Circle object.
 */ 
 
 /*
@@ -15,7 +15,7 @@ controlling the main program loop.
 
 /*
   For directions, please see the README: 
-  https://github.com/FRC-Processing-Lessons/Lesson_2_Intro_Abstractions/edit/master/README.md
+  https://github.com/FRC-Processing-Lessons/Lesson_3_Procedures/blob/master/README.md
 */
 
 /* ------------- ALL CODE GOES BELOW HERE --------------- */
